@@ -17,7 +17,10 @@
 4.1.	Organización funcional y modular del prototipo	
 4.2.	Diagramas de flujo del sistema	
 4.3.	Pseudocódigo estructurado	
-
+5.	IMPLEMENTACIÓN Y PRUEBAS DE EJECUCIÓN	
+5.1.	Estructura de la implementación y control de versiones (GitHub)	
+5.2.	Casos de prueba y ejecución del prototipo	
+5.3.	Verificación de la persistencia de datos	
 
 
 
