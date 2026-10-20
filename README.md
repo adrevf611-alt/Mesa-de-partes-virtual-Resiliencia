@@ -9,6 +9,10 @@
 2.2.	Procesos y transformaciones (Process)	
 2.3.	Salidas del sistema (Outputs)	
 2.4.	Problemas frecuentes del registro manual	
+3.	ANÁLISIS DE ALTERNATIVAS DE SOLUCIÓN	
+3.1.	Propuesta de alternativas	
+3.2.	Cuadro comparativo	
+3.3.	Justificación de la solución seleccionada	
 
 
 
