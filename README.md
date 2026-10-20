@@ -13,6 +13,10 @@
 3.1.	Propuesta de alternativas	
 3.2.	Cuadro comparativo	
 3.3.	Justificación de la solución seleccionada	
+4.	DISEÑO DEL ALGORITMO	
+4.1.	Organización funcional y modular del prototipo	
+4.2.	Diagramas de flujo del sistema	
+4.3.	Pseudocódigo estructurado	
 
 
 
